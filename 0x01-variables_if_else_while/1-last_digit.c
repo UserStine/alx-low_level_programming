@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - Entery code 
+* main - Lanzador.
 *
 * Return: Always 0.
 *
@@ -26,4 +26,4 @@ int main(void)
 		printf("Last digit of %d is %0d and is 0\n", n, n % 10);
 	}
 	return (0);
-}i
+}
